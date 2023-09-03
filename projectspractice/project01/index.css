@@ -1,0 +1,80 @@
+body{
+   background-color: #fff;
+   padding: 10px 30px ;
+   border-radius: 8px;
+   color: #212121;
+   text-decoration: none;
+   border: 2px solid #212121; 
+}
+#grey.button {
+    background-color: grey;
+    color: white; /* You can change the text color as needed */
+    padding: 10px 20px; /* Adjust padding values as needed */
+    border: 1px solid #999; /* Add a border as desired */
+    border-radius: 5px; /* Round the corners if desired */
+    cursor: pointer; /* Change the cursor style on hover */
+  }
+  
+  #grey.button:hover {
+    background-color: darkcyan; /* Change color on hover if desired */
+  }
+  /* Style for the button-like links */
+a.button-like {
+    display: inline-block;
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Button text color */
+    text-align: center;
+    text-decoration: none; /* Remove underlines */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+  }
+  
+  /* Hover style for button-like links */
+  a.button-like:hover {
+    background-color: #0056b3; /* Button background color on hover */
+  }
+  #white.button {
+    background-color:white;
+    color: rgb(17, 17, 17); /* You can change the text color as needed */
+    padding: 10px 20px; /* Adjust padding values as needed */
+    border: 1px solid #999; /* Add a border as desired */
+    border-radius: 5px; /* Round the corners if desired */
+    cursor: pointer; /* Change the cursor style on hover */
+  }
+  
+  #white.button:hover {
+    background-color:darkcyan; /* Change color on hover if desired */
+  }
+  #blue.button {
+    background-color:blue;
+    color:#fff; /* You can change the text color as needed */
+    padding: 10px 20px; /* Adjust padding values as needed */
+    border: 1px solid #999; /* Add a border as desired */
+    border-radius: 5px; /* Round the corners if desired */
+    cursor: pointer; /* Change the cursor style on hover */
+  }
+  
+  #blue.button:hover {
+    background-color:darkcyan; /* Change color on hover if desired */
+  }
+  #yellow.button {
+    background-color:yellow;
+    color: rgb(17, 17, 17); /* You can change the text color as needed */
+    padding: 10px 20px; /* Adjust padding values as needed */
+    border: 1px solid #999; /* Add a border as desired */
+    border-radius: 5px; /* Round the corners if desired */
+    cursor: pointer; /* Change the cursor style on hover */
+  }
+  
+  #yellow.button:hover {
+    background-color:darkcyan; /* Change color on hover if desired */
+  }
+  h1,h2{
+    color: black;
+  }
+
+  
+  
